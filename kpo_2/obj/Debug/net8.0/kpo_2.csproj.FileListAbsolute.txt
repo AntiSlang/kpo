@@ -1,0 +1,14 @@
+C:\ALLFOLDER\proj\kpo_2\bin\Debug\net8.0\kpo_2.exe
+C:\ALLFOLDER\proj\kpo_2\bin\Debug\net8.0\kpo_2.deps.json
+C:\ALLFOLDER\proj\kpo_2\bin\Debug\net8.0\kpo_2.runtimeconfig.json
+C:\ALLFOLDER\proj\kpo_2\bin\Debug\net8.0\kpo_2.dll
+C:\ALLFOLDER\proj\kpo_2\bin\Debug\net8.0\kpo_2.pdb
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.AssemblyInfoInputs.cache
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.AssemblyInfo.cs
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.csproj.CoreCompileInputs.cache
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.dll
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\refint\kpo_2.dll
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.pdb
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\kpo_2.genruntimeconfig.cache
+C:\ALLFOLDER\proj\kpo_2\obj\Debug\net8.0\ref\kpo_2.dll
