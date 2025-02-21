@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AL4SYuDAH4U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antis\\Desktop\\3\\S4.HseCarShop\\S4.HseCarShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\antis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
